@@ -1,0 +1,7 @@
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\bin\Debug\FaturamentoAno.exe.config
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\bin\Debug\FaturamentoAno.exe
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\bin\Debug\FaturamentoAno.pdb
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\obj\Debug\FaturamentoAno.csprojResolveAssemblyReference.cache
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\obj\Debug\FaturamentoAno.csproj.CoreCompileInputs.cache
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\obj\Debug\FaturamentoAno.exe
+C:\Users\tacit\Github\ExerciciosConsoleApp\FaturamentoAno\obj\Debug\FaturamentoAno.pdb

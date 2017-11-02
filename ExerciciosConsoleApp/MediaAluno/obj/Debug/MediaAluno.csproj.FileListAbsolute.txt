@@ -1,0 +1,7 @@
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\obj\Debug\MediaAluno.csprojResolveAssemblyReference.cache
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\tacit\Github\ExerciciosConsoleApp\MediaAluno\obj\Debug\MediaAluno.pdb

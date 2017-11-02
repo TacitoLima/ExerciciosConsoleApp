@@ -1,0 +1,6 @@
+C:\Users\tacit\Github\ExerciciosConsoleApp\EstacoesAno\bin\Debug\EstacoesAno.exe.config
+C:\Users\tacit\Github\ExerciciosConsoleApp\EstacoesAno\bin\Debug\EstacoesAno.exe
+C:\Users\tacit\Github\ExerciciosConsoleApp\EstacoesAno\bin\Debug\EstacoesAno.pdb
+C:\Users\tacit\Github\ExerciciosConsoleApp\EstacoesAno\obj\Debug\EstacoesAno.csproj.CoreCompileInputs.cache
+C:\Users\tacit\Github\ExerciciosConsoleApp\EstacoesAno\obj\Debug\EstacoesAno.exe
+C:\Users\tacit\Github\ExerciciosConsoleApp\EstacoesAno\obj\Debug\EstacoesAno.pdb
